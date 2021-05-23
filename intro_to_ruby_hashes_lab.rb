@@ -41,7 +41,7 @@ def monopoly_with_fourth_tier
   # complexity.
   thirdtierhash=monopoly_with_third_tier
   thirdtierhash[:railroads][:names][:reading_railroad][:mortgage_value]=100
-    thirdtierhash[:railroads][:names][:reading_railroad][:mortgage_value]=100
+    thirdtierhash[:railroads][:names][:pennsylvania_railroad][:mortgage_value]=200
 
   thirdtierhash
 end
