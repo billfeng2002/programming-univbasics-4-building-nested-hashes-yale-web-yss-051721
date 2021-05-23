@@ -29,6 +29,8 @@ def monopoly_with_third_tier
         secondtierhash[:railroads][:rent_in_dollars][:four_pieces_owned]=200;
   secondtierhash[:railroads][:names][:reading_railroad]={}
     secondtierhash[:railroads][:names][:pennsylvania_railroad]={}
+      secondtierhash[:railroads][:names][:b_and_o_railroad]={}
+
 
 
   
