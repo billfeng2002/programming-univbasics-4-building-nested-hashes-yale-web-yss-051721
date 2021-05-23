@@ -42,6 +42,9 @@ def monopoly_with_fourth_tier
   thirdtierhash=monopoly_with_third_tier
   thirdtierhash[:railroads][:names][:reading_railroad][:mortgage_value]=100
     thirdtierhash[:railroads][:names][:pennsylvania_railroad][:mortgage_value]=200
+    thirdtierhash[:railroads][:names][:b_and_o_railroad][:mortgage_value]=400
+        thirdtierhash[:railroads][:names][:shortline_railroad][:mortgage_value]=800
+
 
   thirdtierhash
 end
